@@ -1,0 +1,463 @@
+suburb,address,price
+Parramatta,"Parramatta, NSW53 Crimea Street",1600000
+Concord,"Concord, NSW4 Wallace Street",3380000
+Dundas Valley,"Dundas Valley, NSW55 Perry Street",1690000
+North Parramatta,"North Parramatta, NSW93 Buller Street",1550000
+Bondi Junction,"Bondi Junction, NSW90 Ruthven Street",2275000
+Dundas,"Dundas, NSW15 Yawung Street",1708000
+Randwick,"Randwick, NSW17 Jane Street",2850000
+Rydalmere,"Rydalmere, NSW13A Burbang Crescent",1500000
+Gladesville,"Gladesville, NSW201 Ryde Road",2060000
+South Coogee,"South Coogee, NSW182 Malabar  Road",2110000
+Glebe,"Glebe, NSW32 Forsyth Street",1225000
+Strathfield,"Strathfield, NSW37 Rickard Road",2920000
+Kyle Bay,"Kyle Bay, NSW39 Riverview Avenue",2700000
+North Ryde,"North Ryde, NSW44 Jopling  Street",2350000
+Chatswood,"Chatswood, NSW29 Dalrymple Avenue",2610000
+Concord West,"Concord West, NSW87 Consett Street",3120000
+Oatlands,"Oatlands, NSW4 Kerrie Road",2225000
+Burwood,"Burwood, NSW31A Neich Parade",2920000
+Strathfield,"Strathfield, NSW7 Simone Crescent",3555000
+Enfield,"Enfield, NSW11 The Parade",1870000
+North Balgowlah,"North Balgowlah, NSW6 Eileen Street",3550000
+East Ryde,"East Ryde, NSW103 Melba Drive",2400000
+Carlingford,"Carlingford, NSW92 Arcadian Circuit",2105000
+Cammeray,"Cammeray, NSW14 Palmer Street",3250000
+Lidcombe,"Lidcombe, NSW115 Platform Street",1850000
+Lugarno,"Lugarno, NSW1 Linden Crescent",1922000
+Naremburn,"Naremburn, NSW18 Dargan Street",3100000
+Manly,"Manly, NSW8 Iluka Avenue",4200000
+Lane Cove,"Lane Cove, NSW126 Epping Road",1923000
+Concord,"Concord, NSW26 Denison  Street",5960000
+Belfield,"Belfield, NSW36A Michael Avenue",2370000
+Haberfield,"Haberfield, NSW40 Kingston Street",3550000
+Strathfield,"Strathfield, NSW6 Wakeford Road",4525000
+Carlingford,"Carlingford, NSW4 Tamboy Avenue",2420000
+Enmore,"Enmore, NSW41 Simmons Street",1821000
+Annandale,"Annandale, NSW209 Nelson Lane",2312000
+Rozelle,"Rozelle, NSW14 Charlotte Street",2165000
+Telopea,"Telopea, NSW21 Yurunga Street",2295000
+Homebush,"Homebush, NSW10 Abbotsford Road",5675000
+Burwood,"Burwood, NSW21 Shaftesbury Road",3100000
+North Parramatta,"North Parramatta, NSW24 Galloway Street",1061000
+Chatswood,"Chatswood, NSW1 Dulwich Road",3450000
+West Pennant Hills,"West Pennant Hills, NSW10 Kookaburra Place",2350000
+Penshurst,"Penshurst, NSW34 Grove  Avenue",1855000
+Dundas Valley,"Dundas Valley, NSW44 Warwick Road",1513000
+Belfield,"Belfield, NSW33 Linda Street",1700000
+Concord West,"Concord West, NSW22 Myall Street",2680000
+Burwood,"Burwood, NSW78 Fitzroy Street",3640000
+Westmead,"Westmead, NSW19/53-57 Good Street",490000
+Bondi Beach,"Bondi Beach, NSW39  Simpson Street",5150000
+Abbotsford,"Abbotsford, NSW21 Tyler Crescent",4100000
+Strathfield,"Strathfield, NSW26 Kingsland Road",4100000
+North Ryde,"North Ryde, NSW95 Parklands Road",2462500
+Randwick,"Randwick, NSW24 Coogee Street",4050000
+Balmain,"Balmain, NSW89 Elliott Street",3150000
+Pagewood,"Pagewood, NSW5 Macarthur Avenue",3140000
+Eastwood,"Eastwood, NSW1 Grove Street",2420000
+Rozelle,"Rozelle, NSW24 Rosser Street",2280000
+Greenacre,"Greenacre, NSW31 Rea Street",1705000
+Strathfield,"Strathfield, NSW53 Churchill Avenue",3235000
+Strathfield South,"Strathfield South, NSW23 Frances Avenue",1875000
+North Parramatta,"North Parramatta, NSW1 Moxham Street",1136000
+Concord West,"Concord West, NSW62 Queen  Street",2120000
+Maroubra,"Maroubra, NSW400 Maroubra Road",3830000
+North Rocks,"North Rocks, NSW11 Catlett Avenue",2032000
+Campsie,"Campsie, NSW25 Cowper Street",2577000
+Manly,"Manly, NSW19 Birkley Road",5000000
+Balmain,"Balmain, NSW18 Mullens Street",1460000
+Crows Nest,"Crows Nest, NSW54 Holtermann Street",2125000
+Balgowlah,"Balgowlah, NSWWyobie - 161 Woodland Street",5400000
+Strathfield,"Strathfield, NSW123A Wentworth Road",2950000
+Lidcombe,"Lidcombe, NSW48 Pepper Tree Road",1480000
+Sylvania,"Sylvania, NSW33 Craigholm Street",2230000
+Belfield,"Belfield, NSW1 Seymour Parade",1635000
+Wareemba,"Wareemba, NSW87 Edenholme  Road",3650000
+Kingsford,"Kingsford, NSW184 Gardeners Road",2375000
+Denistone West,"Denistone West, NSW112 Shaftsbury Road",2025000
+Concord,"Concord, NSW52 Broughton Street",2600000
+Strathfield,"Strathfield, NSW18 Hedges Avenue",2840000
+North Balgowlah,"North Balgowlah, NSW3  Gloucester Street",3650000
+Carlingford,"Carlingford, NSW57 Balaka Drive",2500000
+Ermington,"Ermington, NSW1 Monterey Parade",2231000
+Burwood,"Burwood, NSW19 Lucas  Road",3750000
+Balmain,"Balmain, NSW4 Fitzroy Avenue",3514000
+Dundas Valley,"Dundas Valley, NSW20 Hart Street",1685000
+Allawah,"Allawah, NSW2 Burraneer Close",1735000
+Five Dock,"Five Dock, NSW29 Minnesota Avenue",2139000
+North Rocks,"North Rocks, NSW298 North Rocks Road",2150000
+North Ryde,"North Ryde, NSW21 Michael Street",2808000
+Gladesville,"Gladesville, NSW1 Eltham Street",3700000
+Maroubra,"Maroubra, NSW16 Wride Street",2605000
+Strathfield,"Strathfield, NSW8 Amaroo Avenue",5600000
+Burwood,"Burwood, NSW20  Livingstone  Street",6150000
+Randwick,"Randwick, NSW6 Marida Street",3680888
+Rozelle,"Rozelle, NSW120 Evans Street",2176000
+Epping,"Epping, NSW27 Wycombe Street",2765000
+North Ryde,"North Ryde, NSW136 Wicks Road",1805000
+Strathfield,"Strathfield, NSW9 Florence Street",4055000
+Concord West,"Concord West, NSW11 Nirranda  Street",2750000
+Beverley Park,"Beverley Park, NSW29 Harslett Crescent",1870000
+West Ryde,"West Ryde, NSW14 Griffiths Avenue",2055000
+Mosman,"Mosman, NSW9 Ourimbah Road",3140000
+North Balgowlah,"North Balgowlah, NSW7 Lone Pine Place",3450000
+Balmain,"Balmain, NSW29 Mort Street",3250000
+Carlingford,"Carlingford, NSW43 Manildra Avenue",2070000
+Surry Hills,"Surry Hills, NSW113 Fitzroy Street",1735000
+Burwood Heights,"Burwood Heights, NSW23 George Street",1805000
+North Balgowlah,"North Balgowlah, NSW16 Tottenham Street",4210000
+Enfield,"Enfield, NSW55 Beaumaris Street",2631000
+Leichhardt,"Leichhardt, NSW35 Daniel Street",1980000
+Camperdown,"Camperdown, NSW11 Kingston Road",2700000
+Concord West,"Concord West, NSW36 Mepunga Street",3080000
+Strathfield,"Strathfield, NSW41  Kingsland  Road",3648000
+Strathfield,"Strathfield, NSW21 Cotswold Road",4615000
+Balgowlah,"Balgowlah, NSW91 Wanganella Street",2975000
+North Balgowlah,"North Balgowlah, NSW39 Bangaroo Street",3070000
+Lane Cove,"Lane Cove, NSW448 Mowbray Road",2400000
+East Ryde,"East Ryde, NSW1 Jeanette Street",1820000
+North Ryde,"North Ryde, NSW13 Cutler Parade",2801000
+Smithfield,"Smithfield, NSW296 Polding Street",995500
+Lidcombe,"Lidcombe, NSW82 John Street",1720000
+Balmain,"Balmain, NSW26 Harris Street",2150000
+Balgowlah,"Balgowlah, NSW"" Belmont"" | 112 Wanganella Street",3325000
+Seaforth,"Seaforth, NSW12 Baringa Avenue",2885000
+Abbotsford,"Abbotsford, NSW4 Curtin  Avenue",3350000
+Strathfield,"Strathfield, NSW78 Barker Road",3750000
+Mosman,"Mosman, NSW67 Ourimbah Road",3565000
+Vaucluse,"Vaucluse, NSW2B Belah  Gardens",9470000
+North Sydney,"North Sydney, NSW3 Neutral Street",1460000
+Penshurst,"Penshurst, NSW538 Forest  Road",1382000
+West Ryde,"West Ryde, NSW20 Melville Street",2420000
+Coogee,"Coogee, NSW26 Carr Street",4100000
+Lilyfield,"Lilyfield, NSW98 Hubert Street",1789000
+Five Dock,"Five Dock, NSW2C Courland Street",1950000
+Earlwood,"Earlwood, NSW52 Hocking  Avenue",1960000
+Lidcombe,"Lidcombe, NSW1 Turpentine Place",1878000
+Dundas,"Dundas, NSW1 Dora Crescent",1900000
+Guildford West,"Guildford West, NSW9 Wisdom Street",1230000
+Lane Cove,"Lane Cove, NSW16 Ralston Street",3013000
+North Parramatta,"North Parramatta, NSW76 Sorrell Street",1250000
+Naremburn,"Naremburn, NSW124 Northcote Street",2400000
+Ashbury,"Ashbury, NSW19 Second Street",1811000
+Summer Hill,"Summer Hill, NSW22 Bogan Street",2825000
+Canterbury,"Canterbury, NSW21 Cooks Avenue",1715000
+Carlingford,"Carlingford, NSW21 Imlay Avenue",2658000
+Rodd Point,"Rodd Point, NSW11 Rickard Street",4500000
+North Balgowlah,"North Balgowlah, NSW 42 Serpentine Crescent",2420000
+Burwood,"Burwood, NSW9 Ethel Street",7918000
+Bondi Junction,"Bondi Junction, NSW55 Allens Parade",3645000
+Riverwood,"Riverwood, NSW67 Eldon Street",1600000
+Penshurst,"Penshurst, NSW106 Penshurst Street",1445000
+Mascot,"Mascot, NSW8 McBurney Avenue",1745000
+West Ryde,"West Ryde, NSW41 Forsyth Street",2560000
+Lilyfield,"Lilyfield, NSW16 Ainsworth Street",3750000
+Regents Park,"Regents Park, NSW17 Yukka Road",1500000
+Croydon,"Croydon, NSW22 Monash  Parade",2487000
+Redfern,"Redfern, NSW50 William Street",1695000
+Illawong,"Illawong, NSW58 Hobart Place",3500000
+Annandale,"Annandale, NSW11 Trafalgar Street",1500000
+Balmain,"Balmain, NSW86 Beattie Street",2975000
+Dundas Valley,"Dundas Valley, NSW50 Cox Crescent",1705000
+Lane Cove,"Lane Cove, NSW28 Northwood Road",2302000
+Strathfield,"Strathfield, NSW8 Telopea  Avenue",2678000
+Seaforth,"Seaforth, NSW50 Kirkwood Street",3710000
+Fairlight,"Fairlight, NSW62 Lauderdale Avenue",3220000
+South Coogee,"South Coogee, NSW18 Asturias Avenue",2950100
+Rozelle,"Rozelle, NSW9 Wise Street",2150000
+Eastwood,"Eastwood, NSW50  Trelawney Street",3388000
+Maroubra,"Maroubra, NSW36 Kyogle Street",4000000
+Carlingford,"Carlingford, NSW52 Christel Avenue",2337000
+Camperdown,"Camperdown, NSW38 Probert Street",2825000
+North Rocks,"North Rocks, NSW309 North Rocks Road",1720000
+Dundas,"Dundas, NSW27 Rippon Avenue",1451000
+Denistone,"Denistone, NSW18 Beltana Street",2160000
+Clovelly,"Clovelly, NSW40 Cliffbrook Parade",9800000
+Croydon,"Croydon, NSW8 Brady Street",3660000
+Strathfield,"Strathfield, NSW2A Cameron Street",6960000
+Balmain,"Balmain, NSW43 Curtis Road",2130000
+Miranda,"Miranda, NSW7 Meadow Place",2200000
+Lugarno,"Lugarno, NSW46 Valentia Avenue",2350000
+North Strathfield,"North Strathfield, NSW20 Lorraine Street",2440000
+Leichhardt,"Leichhardt, NSW2 Cromwell Street",1660000
+Blakehurst,"Blakehurst, NSW13 Heath Road",1600000
+Carlingford,"Carlingford, NSW85  Arcadian  Circuit",2528000
+Carlingford,"Carlingford, NSW76-78 Arcadian Circuit",3600000
+Maroubra,"Maroubra, NSW32 Donovan  Avenue",4105000
+Glebe,"Glebe, NSW18 Burton  Street",2798500
+Leichhardt,"Leichhardt, NSW1 Whiting Street",2000000
+Eastwood,"Eastwood, NSW12  Vera  Street",2750000
+Strathfield,"Strathfield, NSW1 Shortland Avenue",3600000
+Balmain,"Balmain, NSW34 Montague  Street",1450000
+Daceyville,"Daceyville, NSW43 Boussole Road",1925000
+Punchbowl,"Punchbowl, NSW2B Lilac Street",840000
+North Ryde,"North Ryde, NSW5 Leslie Street",2708000
+Five Dock,"Five Dock, NSW4 Waterview Street",2020000
+Lilyfield,"Lilyfield, NSW14 Fred Street",2585000
+Darlington,"Darlington, NSW7 Thomas  Street",1910000
+Russell Lea,"Russell Lea, NSW2 Mooculta Street",3540000
+Crows Nest,"Crows Nest, NSW56 Holtermann Street",2300000
+Wakeley,"Wakeley, NSW7 Bathurst Street",1370000
+Dundas,"Dundas, NSW22A Kariwara Street",1727000
+Concord,"Concord, NSW88 Correys Avenue",2770000
+Annandale,"Annandale, NSW106 View Street",2000000
+Balgowlah,"Balgowlah, NSW25 Nield Avenue",4750000
+Stanmore,"Stanmore, NSW37 Cardigan  Street",3050000
+Penshurst,"Penshurst, NSW15 Kuroki Street",1650000
+Guildford West,"Guildford West, NSW9A Wisdom Street",1230000
+Croydon,"Croydon, NSW10 Lang Street",3350000
+North Balgowlah,"North Balgowlah, NSW17 Warringah Street",3960000
+Maroubra,"Maroubra, NSW37 Torrington  Road",6275000
+Granville,"Granville, NSW4 Hewlett Street",1435000
+Darlington,"Darlington, NSW261 Abercrombie Street",1780000
+Mascot,"Mascot, NSW17 Hicks Avenue",2380000
+North Rocks,"North Rocks, NSW31 Somerset Drive",2093000
+Cammeray,"Cammeray, NSW57 Palmer Street",3300000
+Marrickville,"Marrickville, NSW15 Bourne Street",2600000
+Lilyfield,"Lilyfield, NSW3 Ilka Street",3300000
+Winston Hills,"Winston Hills, NSW30 Asquith Avenue",1300000
+West Ryde,"West Ryde, NSW1 Sherbrooke Road",2200000
+Silverwater,"Silverwater, NSW2 Asquith Street",1725000
+Concord,"Concord, NSW3 Pamela Place",2630000
+Epping,"Epping, NSW37 Broadway Circuit",2080000
+Annandale,"Annandale, NSW17 Booth Street",2275000
+Ermington,"Ermington, NSW10 Linden Grove",2850000
+Maroubra,"Maroubra, NSW435 Beauchamp Road",3600000
+Beverley Park,"Beverley Park, NSW44 Harslett Crescent",1915000
+Burwood,"Burwood, NSW32 Livingstone  Street",4000000
+Camperdown,"Camperdown, NSW2/2A Pyrmont Bridge Road",2088888
+North Parramatta,"North Parramatta, NSW14 Iron Street",1685000
+Maroubra,"Maroubra, NSW10 Marine Parade",10650000
+Bondi Junction,"Bondi Junction, NSW82 Newland  Street",2205000
+West Pennant Hills,"West Pennant Hills, NSW41 Bellamy Farm Road",3050000
+Naremburn,"Naremburn, NSW28 Park Road",4400000
+Homebush,"Homebush, NSW28 Badgery Avenue",2680000
+North Strathfield,"North Strathfield, NSW19 Warsaw Street",2520000
+Ashfield,"Ashfield, NSW15 Ashford  Street",2255000
+Five Dock,"Five Dock, NSW24 Connecticut Avenue",4200000
+Balmain,"Balmain, NSW3 Johnston Street",2650000
+Lane Cove,"Lane Cove, NSW4 Centennial Avenue",2680000
+Strathfield,"Strathfield, NSW15 Myee Avenue",3625000
+Oatlands,"Oatlands, NSW23 Holmes Avenue",2800000
+Petersham,"Petersham, NSW17 Westbourne Lane",2000000
+Camperdown,"Camperdown, NSW10 Probert Street",3070000
+North Ryde,"North Ryde, NSW48 Blenheim Road",3565000
+Camperdown,"Camperdown, NSW8 Pidcock Street",3000000
+Lane Cove,"Lane Cove, NSW15 Lihon Street",4450000
+Burwood,"Burwood, NSW9 Genders Avenue",2380000
+Lidcombe,"Lidcombe, NSW24 Dalley Street",2595000
+Strathfield,"Strathfield, NSW465 Liverpool Road",955000
+Kingsford,"Kingsford, NSW16 Araluen Street",1950000
+Eastwood,"Eastwood, NSW68 Balaclava Road",2100000
+Birchgrove,"Birchgrove, NSW58 Church Street",2040000
+Concord West,"Concord West, NSW35 Moala Street",2640000
+Leichhardt,"Leichhardt, NSW258 Catherine Street",1910000
+Glebe,"Glebe, NSW28 Eglinton Road",3100000
+Bass Hill,"Bass Hill, NSW45 Orchard Road",1360000
+North Ryde,"North Ryde, NSW106 Kent  Road",3470000
+Cammeray,"Cammeray, NSW11 Armstrong Street",2950000
+Croydon,"Croydon, NSW17 Cromwell Street",2329000
+Dundas Valley,"Dundas Valley, NSW52 Cox Crescent",1770000
+Carlingford,"Carlingford, NSW11 Tintern Avenue",2370000
+North Rocks,"North Rocks, NSW5 Bokana Place",2570000
+Concord,"Concord, NSW42 Empire  Avenue",3500000
+Fairlight,"Fairlight, NSW62a Griffiths Street ",6212500
+Bexley,"Bexley, NSW72 Glenfarne Street",1850000
+Dundas,"Dundas, NSW176 Park Road",1351000
+Riverwood,"Riverwood, NSW73 Shenstone  Road",1295000
+North Ryde,"North Ryde, NSW31 Michael Street",3100000
+Bondi Junction,"Bondi Junction, NSW91 Newland Street",3600000
+Strathfield South,"Strathfield South, NSW29  James Street",2566000
+Ermington,"Ermington, NSW29 Nordica Street",1685000
+Croydon,"Croydon, NSW16 Holborow Street",2205000
+Five Dock,"Five Dock, NSW31 Noble  Street",4500000
+Burwood,"Burwood, NSW21 Wyatt Avenue",4900000
+Rozelle,"Rozelle, NSW15 Rosser Street",2950000
+Oatlands,"Oatlands, NSW12 Kerrie Road",2065000
+Yagoona,"Yagoona, NSW71A Cantrell Street",1085000
+Eastwood,"Eastwood, NSW24 Alison Street",3500000
+Wentworthville,"Wentworthville, NSW49 Sturdee Street",1400000
+Constitution Hill,"Constitution Hill, NSW58 Peachtree Avenue",1450000
+Alexandria,"Alexandria, NSW34 Suttor Street",2055000
+Merrylands,"Merrylands, NSW16 Alderney Road",1250000
+Rodd Point,"Rodd Point, NSW19 First Avenue",3649000
+Marrickville,"Marrickville, NSW144 Edinburgh Road",1385000
+Redfern,"Redfern, NSW78 Telopea Street",1801000
+Lilyfield,"Lilyfield, NSW60 Brenan Street",1600000
+North Rocks,"North Rocks, NSW226A North Rocks Road",1684000
+Balmain East,"Balmain East, NSW22 Gallimore Avenue",6723000
+Glebe,"Glebe, NSW21 Arcadia Road",3330000
+Maroubra,"Maroubra, NSW887-889 Anzac Parade",2060000
+Vaucluse,"Vaucluse, NSW6 Belah  Gardens",8000000
+Belfield,"Belfield, NSW25B Boronia Street",2475000
+Strathfield,"Strathfield, NSW39 Wilson Street",3800000
+Croydon,"Croydon, NSW5 Wychbury Avenue",2250000
+Miranda,"Miranda, NSW37 View  Street",2015000
+Lidcombe,"Lidcombe, NSW13 Botanica Drive",1730000
+Gladesville,"Gladesville, NSW102A Ryde Road",2705000
+North Rocks,"North Rocks, NSW28 Coronet Court",1870000
+Darlinghurst,"Darlinghurst, NSW221 Crown Street",2050000
+Coogee,"Coogee, NSW247 Carrington Road",4720000
+Paddington,"Paddington, NSW73 Greens Road",2450000
+Carlingford,"Carlingford, NSW6 Yalding Avenue",2375000
+Epping,"Epping, NSW80 Eastwood Avenue",2175000
+Bondi Junction,"Bondi Junction, NSW5 Lawson Street",2625000
+Lane Cove,"Lane Cove, NSW84 River Road West",2100000
+Strathfield,"Strathfield, NSW24 Oxford Road",6600000
+Dundas Valley,"Dundas Valley, NSW60 Hart Street",1755000
+Balgowlah,"Balgowlah, NSW130 Woodland Street",3075000
+Peakhurst,"Peakhurst, NSW7 Prospect Road",1250000
+Carlingford,"Carlingford, NSW3 Gowan Court",2115000
+Bexley,"Bexley, NSW8 Griffin Avenue",1610000
+Maroubra,"Maroubra, NSW178C Marine Parade",750000
+Strathfield,"Strathfield, NSW 9 Ravenna Street",3525000
+Sans Souci,"Sans Souci, NSW309 The Grand Parade",1550000
+Merrylands,"Merrylands, NSW24 Ridge Street",1297000
+Oatlands,"Oatlands, NSW28 Belmore (29/49 Bettington Road) Street East",1950000
+Burwood,"Burwood, NSW16 Nicholson  Street",3340000
+Allawah,"Allawah, NSW83 Bellevue Parade",1170000
+Concord West,"Concord West, NSW335 Queen Street",2600000
+Seaforth,"Seaforth, NSW13 Alto Avenue",2900000
+Lane Cove,"Lane Cove, NSW20 Cope Street",2882000
+Carlingford,"Carlingford, NSW1 Fredrika Place",1860000
+Epping,"Epping, NSW12 Third Avenue",1888000
+Strathfield,"Strathfield, NSW5 Mount Street",4210000
+Rozelle,"Rozelle, NSW47 Moodie Street",2200000
+North Ryde,"North Ryde, NSW27 Blenheim Road",2701000
+West Ryde,"West Ryde, NSW15 Anthony Road",3200000
+Eastwood,"Eastwood, NSW9 Lovell Road",2350000
+Lilyfield,"Lilyfield, NSW16 Fred  Street",2500000
+Connells Point,"Connells Point, NSW213 Queens Road",4200000
+Lugarno,"Lugarno, NSW37 Boronia Parade",1710000
+Balmain,"Balmain, NSW3 Glassop Street",3900000
+Greenacre,"Greenacre, NSW10 Bunt Avenue",1450000
+Mosman,"Mosman, NSW28 Gouldsbury Street",4500000
+Newtown,"Newtown, NSW17 Mary Street",2000000
+Concord West,"Concord West, NSW5 Mackenzie Street",3075000
+Annandale,"Annandale, NSW4 Water Street",1320000
+Eastwood,"Eastwood, NSW7 Dawes Crescent",2535000
+Bondi Junction,"Bondi Junction, NSW5 Allens Parade",3600000
+Dundas Valley,"Dundas Valley, NSW74 Alexander Street",1485000
+Strathfield,"Strathfield, NSW1 Cameron Street",3280000
+Carlingford,"Carlingford, NSW15 Tamboy Avenue",2330000
+Dundas,"Dundas, NSW2 Anderson Avenue",1400000
+Lidcombe,"Lidcombe, NSW31 Weeroona Road",1600000
+Queens Park,"Queens Park, NSW41 Ashton Street",4950000
+Marrickville,"Marrickville, NSW96 Wardell Road",1700000
+Annandale,"Annandale, NSW72 Annandale Street",2585000
+Strathfield,"Strathfield, NSW31 Augusta Street",8610000
+Randwick,"Randwick, NSW82 Howard Street",1985000
+Summer Hill,"Summer Hill, NSW30 Kensington Road",2475000
+Silverwater,"Silverwater, NSW33 Melton Street North ",1435000
+North Ryde,"North Ryde, NSW15 Jopling Street",2730000
+Surry Hills,"Surry Hills, NSW27 Ann Street",1305000
+Strathfield,"Strathfield, NSW31 Cotswold Road",5500000
+Lane Cove,"Lane Cove, NSW1 Oak Avenue",2200000
+Kingsford,"Kingsford, NSW81 Bunnerong  Road",2450000
+Drummoyne,"Drummoyne, NSW136 Lyons Road",1975000
+Bexley,"Bexley, NSW88 Caledonian Street",1380000
+North Ryde,"North Ryde, NSW30 Edmondson Street",2025000
+Carlingford,"Carlingford, NSW13 Tintern  Avenue",3301000
+Balmain,"Balmain, NSW29 Clayton Street",2660000
+Rozelle,"Rozelle, NSW37 Mansfield Street",1550000
+Marrickville,"Marrickville, NSW29 Perry Street",2300000
+Strathfield,"Strathfield, NSW8 Carrington Avenue",7550000
+Strathfield South,"Strathfield South, NSW8 Bennett Avenue",3675000
+North Parramatta,"North Parramatta, NSW1 Mary Street",2400000
+Croydon,"Croydon, NSW65 Lang Street",2680000
+Ermington,"Ermington, NSW10 Bannerman Street",1600000
+Edgecliff,"Edgecliff, NSW21 South Street",1825000
+Kensington,"Kensington, NSW23 Eastern Avenue",4012000
+Greenacre,"Greenacre, NSW121 Wangee Road",2600000
+Stanmore,"Stanmore, NSW109 Macaulay Road",2290000
+Lilyfield,"Lilyfield, NSW19 O'Neill Street",1950000
+Eastwood,"Eastwood, NSW13 Valley Road",3005000
+North Ryde,"North Ryde, NSW348 Lane Cove Road",1915000
+Kingsford,"Kingsford, NSW113 Cottenham Avenue",2841000
+Carlingford,"Carlingford, NSW26 Bellevue Drive",2120000
+North Parramatta,"North Parramatta, NSW74 Bellevue  Street",2420000
+Chester Hill,"Chester Hill, NSW78  Weemala  Road",1120000
+Peakhurst,"Peakhurst, NSW56 Samuel Street",2510000
+Redfern,"Redfern, NSW68 Hugo Street",1600000
+Croydon Park,"Croydon Park, NSW11 Lennartz Street",3370000
+Strathfield,"Strathfield, NSW45 Cotswold Road",5300000
+Stanmore,"Stanmore, NSW12 Harrow Road",2100000
+Ermington,"Ermington, NSW24 Honor Street",2130000
+Kensington,"Kensington, NSW14 Mooramie Avenue",4500000
+Concord,"Concord, NSW10 Coles Street",2900000
+Oatlands,"Oatlands, NSW11 Kerrie Road",3150000
+Glebe,"Glebe, NSW2 Cotter Lane",2815000
+Beecroft,"Beecroft, NSW6a Spring Street",1715000
+Pendle Hill,"Pendle Hill, NSW213 Wentworth  Avenue",1060000
+Enmore,"Enmore, NSW112 Camden Street",2060000
+Kingsford,"Kingsford, NSW162 Eastern Avenue",2780000
+Waterloo,"Waterloo, NSW7 Lenton Parade",1800000
+Clovelly,"Clovelly, NSW38 Shackel Avenue",5800000
+Epping,"Epping, NSW22 Dunmore Road",2575000
+Leichhardt,"Leichhardt, NSW29 North Street",2000000
+Strathfield South,"Strathfield South, NSW153 Coronation Parade",3125000
+Burwood,"Burwood, NSW16A Nicholson  Street",3340000
+Carlingford,"Carlingford, NSW364A North Rocks  Road",1715000
+Newtown,"Newtown, NSW3/10 O'Connell  Street",2450000
+Bexley,"Bexley, NSW90 Caledonian Street",1685000
+Oatlands,"Oatlands, NSW19 Belmore Street East ",2020000
+Beecroft,"Beecroft, NSW96 Sutherland Road",4704000
+Guildford,"Guildford, NSW2 Regina Street",1800000
+Carlingford,"Carlingford, NSW2 Tobruk Avenue",2270000
+Balmain,"Balmain, NSW17 Harris Street",2290000
+Gladesville,"Gladesville, NSW102 Ryde Road",2705000
+Forest Lodge,"Forest Lodge, NSW28 Forest  Street",2230000
+North Rocks,"North Rocks, NSW2 Panaview  Crescent",1900000
+Croydon Park,"Croydon Park, NSW9 Boyle Street",3050000
+Rozelle,"Rozelle, NSW19 Belmore Street",1700000
+Coogee,"Coogee, NSW3 Thomas Street",4000000
+Enmore,"Enmore, NSW25 James Street",2000000
+Epping,"Epping, NSW77 Midson Road",3100000
+North Ryde,"North Ryde, NSW2 Donald Street",2600000
+Maroubra,"Maroubra, NSW28 Holmes  Street",2445000
+Balmain,"Balmain, NSW1 Rowntree Street",3000000
+Lane Cove,"Lane Cove, NSW40 Johnston Crescent",3550000
+North Rocks,"North Rocks, NSW301a North Rocks Road",1616000
+Newtown,"Newtown, NSW40 Wells Street",1775000
+Rozelle,"Rozelle, NSW5 Slade Street",2250000
+Five Dock,"Five Dock, NSW38 Murralong  Avenue",4300000
+Concord West,"Concord West, NSW26 Iandra Street",2400000
+Stanmore,"Stanmore, NSW16-18 Cardigan Street",3025000
+Homebush,"Homebush, NSW67-69 Abbotsford  Road",3830000
+Strathfield,"Strathfield, NSW29 Shortland Avenue",3237000
+Hurstville,"Hurstville, NSW1 Taronga Street",1825000
+Lilli Pilli,"Lilli Pilli, NSW21 Denise Drive",2800000
+Leichhardt,"Leichhardt, NSW20 Emily Street",2825000
+Penshurst,"Penshurst, NSW43 Penshurst Avenue",2325000
+North Rocks,"North Rocks, NSW109 North Rocks Road",1500000
+Balmain,"Balmain, NSW4 Duncan Street",2275000
+Leichhardt,"Leichhardt, NSW7 Stanley Street",2307000
+Baulkham Hills,"Baulkham Hills, NSW54 Palace  Road",1802000
+Five Dock,"Five Dock, NSW98 First Avenue",4500000
+Seven Hills,"Seven Hills, NSW59 Dawn  Drive",990000
+North Ryde,"North Ryde, NSW76 Wicks Road",2320000
+Concord,"Concord, NSW75 Broughton  Street",4508888
+North Ryde,"North Ryde, NSW3 Parklands Road",2633000
+Constitution Hill,"Constitution Hill, NSW1 Harris Road",1250000
+Annandale,"Annandale, NSW56 Albion Street",1800000
+Strathfield,"Strathfield, NSW11 Ravenna Street",3598888
+Homebush,"Homebush, NSW10 Melrose Street",3460000
+Hurstville,"Hurstville, NSW47 Millett Street",1800000
+West Ryde,"West Ryde, NSW1 Grand Avenue",2450000
+Winston Hills,"Winston Hills, NSW8 Einstein Street",1500000
+Lugarno,"Lugarno, NSW3 Bimbadeen  Avenue",1855000
+Epping,"Epping, NSW2E The Boulevarde",3060000
+Carlingford,"Carlingford, NSW5 Carolyn Avenue",2433000
+Wentworthville,"Wentworthville, NSW46 Emert Street",1350000
+Balmain,"Balmain, NSW16 Bradford Street",3000000
+Baulkham Hills,"Baulkham Hills, NSW2 Baker Crescent",1904000
+Croydon Park,"Croydon Park, NSW65 Hampton Street",1975000
+Strathfield,"Strathfield, NSW11 Hunter Street",3600000
+Camperdown,"Camperdown, NSW146 Salisbury Road",1700000
+Arncliffe,"Arncliffe, NSW24 Stanley Street",1500000
+Lane Cove,"Lane Cove, NSW46 Elizabeth Parade",3770000
+Annandale,"Annandale, NSW31 Booth Street",3500000
+Bondi,"Bondi, NSW91 Ocean Street",5675000
+Beverly Hills,"Beverly Hills, NSW22 Alkoomie Street",1900000
+Rodd Point,"Rodd Point, NSW44 Arthur Street",3700000
