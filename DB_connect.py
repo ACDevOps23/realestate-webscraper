@@ -2,7 +2,7 @@ import sqlite3
 
 
 def create_database():
-    db_connection = sqlite3.connect('home_prices.db')
+    db_connection = sqlite3.connect('db_name.db')
     cursor_db = db_connection.cursor()
 
     cursor_db.execute("DROP TABLE IF EXISTS homes")
